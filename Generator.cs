@@ -8,7 +8,7 @@ namespace RandomValuesGenerator
     {
         #region V1
 
-        // simple solution
+
         public List<int> GenerateRandomNumbersV1(int count)
         {
             var rand = new Random();
